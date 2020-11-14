@@ -1,4 +1,4 @@
-# aplicativo_werneck
+# PokemonApp
 
 Um novo aplicativo Flutter
 
